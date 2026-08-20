@@ -1,0 +1,17 @@
+{
+  "name": "@product-intelligence/config",
+  "version": "0.1.0",
+  "description": "Shared configurations, constants, and environment definitions for Product Intelligence",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "lint": "tsc --noEmit"
+  },
+  "keywords": ["product-intelligence", "config"],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.4.0"
+  }
+}
